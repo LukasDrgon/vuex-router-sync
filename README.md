@@ -12,6 +12,12 @@ npm install vuex-router-sync
 npm install vuex-router-sync@2
 ```
 
+or
+
+```
+<script src="https://cdn.jsdelivr.net/npm/vuex-router-sync@4/index.js"></script>
+```
+
 ``` js
 import { sync } from 'vuex-router-sync'
 import store from './vuex/store' // vuex store instance
